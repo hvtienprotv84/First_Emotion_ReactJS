@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://networksynapse.net/wp-content/uploads/2021/12/emotion-js-react-1232x616.png" width="500"/>
+    <img src="https://networksynapse.net/wp-content/uploads/2021/12/emotion-js-react-1232x616.png" width="800"/>
 </div>
 
 <div align="center">
